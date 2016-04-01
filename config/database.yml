@@ -12,7 +12,7 @@ default: &default
 development:
   adapter: postgresql
   encoding: utf8
-  database: superheoes
+  database: superheroes
   pool: 5
   host: localhost
   username: desafio
